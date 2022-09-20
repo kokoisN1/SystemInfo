@@ -2,7 +2,7 @@ system info app
 
 Overview:
 This application will return a REST message when called with the URL 
-http://<IP><PORT>:/api/SystemInfo.
+http://< IP >< PORT >:/api/SystemInfo.
 the REST message will describe the system information that is is ruuning on.
 
 Time UTC On Server: <current time on server in UTC timezone - iso8601 format>
